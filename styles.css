@@ -1,0 +1,9 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 3% 8% 0 8%;
+  font-family: 'Montserrat', Arial, sans-serif;
+}
